@@ -7,7 +7,7 @@ import (
 
 	"github.com/jmoiron/sqlx"
 	"github.com/valyala/fasthttp"
-	"github.com/osuthailand/api/common"
+	"github.com/osulumilous/api/common"
 )
 
 var modes = []string{"std", "taiko", "ctb", "mania"}

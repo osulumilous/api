@@ -3,7 +3,7 @@ package v1
 import (
 	"strings"
 
-	"github.com/osuthailand/api/common"
+	"github.com/osulumilous/api/common"
 )
 
 // Boilerplate errors

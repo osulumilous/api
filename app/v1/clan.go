@@ -2,7 +2,7 @@ package v1
 
 import (
 	"database/sql"
-	"github.com/osuthailand/api/common"
+	"github.com/osulumilous/api/common"
 	"sort"
 	"fmt"
 	"strconv"
