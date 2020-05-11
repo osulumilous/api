@@ -67,35 +67,7 @@ var kaomojis = [...]string{
 }
 
 var randomSentences = [...]string{
-	"osu!thailand? What is that?",
-	"The brace is on fire!",
-	"deverupa ga daisuki!",
-	"It works!!!!",
-	"Feelin' groovy!",
-	"sudo rm -rf / (wait... did i forgot something here?)",
-	"Momma, I don't wanna die",
-	"Aoba haven't watch anime for 1 year",
-	"I don't have money to buy new laptop",
-	"This API is skidded :OMEGALUL:",
-	"Relax server, yes.",
-	"AWC hype Pepega",
-	"Daisuki~",
-	"Ainu Client is a big meme? nahh",
-	":thonk:",
-	"If you love me, then say so!",
-	"Recommend me something.",
-	"Hi, this is Aoba stuff",
-	"Despacito 2019 v2",
-	"ilyt, are you reading this?",
-	"jackson... i'm sorry... for everything...",
-	"Simon, u broke relax profile ~Aoba 2019",
-	"All we had to do was follow the damn train, CJ.",
-	"Free supporter for Thai people!",
-	"fake ass 5* map ~Aoffy 2019",
-	"im bad at osu ~Aoba 2019",
-	"WHAT ARE YOU DOING?!",
-	"Are you reading this btw?",
-	"donate me pls im poor",
+	"why open this????",
 }
 
 func surpriseMe() string {

@@ -79,7 +79,7 @@ type blogPostsResponse struct {
 // consts for the medium API
 const (
 	mediumAPIResponsePrefix = `])}while(1);</x>`
-	mediumAPIAllPosts       = `https://blog.ripple.moe/latest?format=json`
+	mediumAPIAllPosts       = `https://medium.com/osulumilous/latest?format=json`
 )
 
 func init() {

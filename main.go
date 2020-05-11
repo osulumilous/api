@@ -31,7 +31,7 @@ func init() {
 var db *sqlx.DB
 
 func main() {
-	err := agplwarning.Warn("ripple", "Ainu & Homura API")
+	err := agplwarning.Warn("ripple", "Other API")
 	if err != nil {
 		fmt.Println(err)
 	}

@@ -154,7 +154,7 @@ func Start(conf common.Conf, dbO *sqlx.DB) *fhr.Router {
 			common.PrivilegeManageUser, common.PrivilegeAPIMeta)
 	}
 	
-	// Ainu & Homura API
+	// Other API
 	{
 		r.Method("/api/v1/users/followers", mitsuha.FollowersGetResponse)
 		r.Method("/api/v1/clans", v1.ClansGET)
